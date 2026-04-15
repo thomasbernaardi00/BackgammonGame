@@ -1,0 +1,38 @@
+Per questa Us sono state verificate che le mosse disponibili mostrate fossero effettivamente quelle possibili in un determinato stato di gioco
+Seguendo le seguenti regole:
+
+ 1. Valore dei dadi:
+Dadi normali: Il valore dei dadi lanciati determina di quante posizioni una pedina può muoversi. Ad esempio, un 4 e un 3 significano che la pedina può muoversi di 4 spazi e un altro di 3, oppure la stessa pedina può muoversi di 7 spazi.
+Doppio: Se vengono tirati due dadi uguali, il giocatore può muovere una pedina di quel valore per quattro volte. Ad esempio, un doppio 3 permette di muovere una pedina di 3 spazi per quattro volte.
+
+2. Direzione di movimento:
+Le pedine devono muoversi in avanti, cioè in direzione opposta alla posizione iniziale.
+Se il giocatore è in partenza dalla posizione 24, deve muovere verso il punto 1. Se il giocatore è in partenza dalla posizione 1, deve muovere verso il punto 24.
+
+3. Condizioni di blocco:
+Blocco da parte dell'avversario: Una pedina può muoversi solo su un punto che non è occupato da due o più pedine dell’avversario. Se un punto è occupato da due o più pedine avversarie, il giocatore non può muoversi su di esso.
+Blot (pedina singola): Se un punto è occupato da una singola pedina dell'avversario (un "blot"), il giocatore può spostare una propria pedina su quel punto, catturando la pedina avversaria e rimandandola sulla barra.
+
+4. Pedine amiche:
+Una pedina può essere mossa solo su un punto che non sia occupato da una pedina amica. Se una pedina è già su un punto, quel punto è "bloccato" per il giocatore che vorrebbe spostare una pedina.
+
+5. La barra:
+Se una pedina viene "catturata", essa finisce sulla barra. La pedina deve essere rimessa in gioco entrando dalla parte opposta della tavola (ad esempio, se sei il giocatore che parte dal punto 24, devi far entrare la pedina dalla parte dei punti 1-6) prima di poter effettuare altre mosse.
+Reintegro dalla barra: Una pedina può essere reinserita nel gioco solo se il punto di ingresso dell’avversario è libero o occupato da un blot.
+
+6. Homeboard (casella finale):
+Una volta che tutte le pedine di un giocatore sono nella sua homeboard (ovvero nei punti dal 1 al 6), il giocatore può iniziare a ritirare (rimuovere) le sue pedine dal gioco.
+Ritiro delle pedine: Le pedine possono essere ritirate solo se il numero dei dadi corrisponde esattamente alla posizione della pedina sulla tavola (ad esempio, se una pedina è sul punto 4 e viene tirato un 4, può essere ritirata).
+
+7. Mosse legali:
+Ogni pedina può essere mossa solo in avanti. Non è consentito fare mosse all'indietro.
+Se un giocatore non ha mosse legali disponibili (ad esempio, a causa di pedine bloccate dall'avversario), il suo turno termina e il gioco passa all'avversario.
+
+8. Turno di gioco:
+Il giocatore può fare una mossa con ogni dado lanciato, ma se non può fare nessuna mossa legale, il suo turno è finito.
+Se un giocatore ha la possibilità di fare una mossa con entrambi i dadi, ma sceglie di usarne solo uno, l’altro dado non può essere utilizzato successivamente nello stesso turno.
+
+9. Cattura delle pedine:
+Se una pedina è "bloccata" da due o più pedine dell'avversario su un determinato punto, quella pedina non può essere mossa fino a quando non si libera il punto.
+La cattura di una pedina avversaria significa che quella pedina è rimandata sulla barra dell'avversario.
+

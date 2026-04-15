@@ -1,0 +1,37 @@
+Checklist S1
+Prodotto online: ASSENTE
+User Stories (Taiga/Text)
+	SEMBRA che in pratica non abbiate chiuso neanche un'US! 
+	Di solito è segno di cattiva progettazione, stime errate, o mala organizzazione interna
+	Fate una nuova Backlog grooming session e riorganizzatevi.
+	In particolare partite da un gruppo di US che vi permettano di avere un MVP minimammente funzionante
+	
+	
+CODICE: Manca (forse presente in altri branch)	//UPDATE
+ 	Codice caricato tramite zip. Ragazzi, questa roba la accetto dai miei ragazzi di 4° superiore, 
+ 	ma a livello universitario... Cosa vi ho spiegato nella lezione su git? 
+ 	RIMEDIATE ASSOLUTAMENTE E PURE IN FRETTA
+Documenti: Non aggiornati
+
+
+Sprint preparation: 
+	Mancano Sprint Goal, DOD, DOR, Sprint backlog per S2//UPDATE, caricata relazione complessiva
+	
+Sprint review: 
+	S1:Manca//UPDATE caricato demo.
+	Confesso che la demo è molto carina e di effetto, ma non è una sprint review. 
+	Per il futuro, dovrete mostrare prima la user story che volte dimostrare, poi mostrare l'app
+	che RISPONDE a quella US e come tale risulta approvata dal PO - rivedete la teoria.
+	
+Retrospective: 
+	S1:Manca//UPDATE caricata nella relazione
+	Avete scritto qualcosa, ma forse visto che i problemi avuti erano tanti, forse potevate approfondire
+	IN particolare le famose "azioni" da intraprendere sono molto fumose, non sono priorizzate, non sono 
+	stimabili e non c'è un controllore. 
+	Esempio: "concentrazione sull'efficienza di ciò che viene sviluppato" al lato pratico non vuol dire nulla
+	Per esempio il primo potreste convertirlo in una cosa del genere "Ogni L/Me/ve, alle 19, lo SM indice una videoconf che in pratica costituisce il Daily scrum in cui ogni dev fa il punto della situazione. Max 15 minuti"
+	
+Testing/Coverage: ?
+SQ: 
+Devops: -
+

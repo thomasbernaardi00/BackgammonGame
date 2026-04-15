@@ -1,0 +1,55 @@
+.menu-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background-color: #333333;
+    color: white;
+    border-radius: 10px;
+  }
+  
+  .menu-title {
+    font-size: 2.5rem;
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .menu-section {
+    margin-bottom: 20px;
+  }
+  
+  .menu-section h4 {
+    font-size: 1.5rem;
+    color: white;
+    margin-bottom: 10px;
+  }
+  
+  .menu-buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .menu-button {
+    background-color: #141415;
+    color: rgba(255, 255, 255, 0.87);
+    border: 2px solid white;
+    padding: 0.6em 0.9em;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .menu-button:hover {
+    background-color: grey;
+  }
+  
+  .menu-button:focus,
+  .menu-button:focus-visible {
+    outline: 4px auto -webkit-focus-ring-color;
+  }

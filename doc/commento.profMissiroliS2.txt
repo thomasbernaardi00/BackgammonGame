@@ -1,0 +1,39 @@
+Checklist S2
+Prodotto online: POCO PIU' DI UN PLACEHOLDER
+Mattermost: non ho accesso.
+User Stories (Taiga/Text)
+	Questa volta pare che qualche US sia stata chiusa. 
+	Però poi, al lato pratico, ...?
+
+	
+	
+CODICE: Presente  (vite?)
+Documenti: Non aggiornati
+Preparazione: 
+	S3: manca
+
+Sprint preparation: 
+	Sprint goal non è poi uno sprint goal, è una dichiarazione di principio.
+	
+Sprint review: 
+	S1: caricato demo ma non Sprint reviee
+	Confesso che la demo è molto carina e di effetto, ma non è una sprint review. 
+	Per il futuro, dovrete mostrare prima la user story che volte dimostrare, poi mostrare l'app
+	che RISPONDE a quella US e come tale risulta approvata dal PO - rivedete la teoria.
+	S2: richiesto accesso, vi dirò quando lo vedo
+	S3: non c'è demo, la review è un po' generica
+	
+Retrospective: 
+	S1:UPDATE caricata nella relazione
+	S2: Presente, servirebbe una più precisa indicazione su cosa fare e indicare un 
+	   "verificatore" per ogni azione intrapresa. 
+	S3: 
+Git:
+	Mancano i tag
+	35	Lorenzo Ricci <lorenzo.ricci27@studio.unibo.it>
+        13	Gianluca Sperti <gianluca.sperti@studio.unibo.it>
+        Sembra lavorino solo loro 
+Testing/Coverage: Testing apparentemente assente
+SQ: Configurato e accessibile, anche se i valori sono molto bassi.
+Devops: sembra di no
+
