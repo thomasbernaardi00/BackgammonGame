@@ -1,8 +1,0 @@
-    35	Lorenzo Ricci <lorenzo.ricci27@studio.unibo.it>
-    13	Gianluca Sperti <gianluca.sperti@studio.unibo.it>
-     8	Lollori20 <Lorenzo.ricci27@studio.unibo.it>
-     5	francesco fabio di mauro <francesco.dimauro5@studio.unibo.it>
-     1	Fabzero <francesco.dimauro5@studio.unibo.it>
-     1	Lollori20 <lorenzo.ricci27@stuio.unibo.it>
-     1	Rebeca Sofroniou <rebeca.sofroniou@studio.unibo.it>
-     1	timounibo <tommaso.michetti@studio.unibo.it>
